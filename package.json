@@ -1,0 +1,7 @@
+{
+  "name": "graphql-pg-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Cesar Gustavo Serrudo Huarachi",
+  "license": "MIT"
+}
